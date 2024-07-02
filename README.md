@@ -17,5 +17,4 @@ This Python script utilizes Selenium with undetected_chromedriver to scrape chap
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/x36boda
-   cd x36boda
+   git clone https://github.com/xx36Mostafa/WebScraping/tree/main
